@@ -1,0 +1,33 @@
+{
+  "name": "rapstat",
+  "version": "1.0.0",
+  "description": "Tool for get stat from Genius and do data science with that",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "passport-auth0": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivachko/rapStat.git"
+  },
+  "keywords": [
+    "music",
+    "datascience",
+    "datavis",
+    "js",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Ivachko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivachko/rapStat/issues"
+  },
+  "homepage": "https://github.com/Ivachko/rapStat#readme"
+}
