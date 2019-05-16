@@ -8,12 +8,12 @@
     "passport-auth0": "^1.1.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "npm test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ivachko/rapStat.git"
+  },
+  "scripts": {
+    "test": "mocha"
   },
   "keywords": [
     "music",
